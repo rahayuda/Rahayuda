@@ -1,4 +1,4 @@
-### Hi there 👋, currently I work as a Lecturer in the Informatics Department.
+### Hi there 👋, currently I work as a Lecturer in Informatics Department.
 
 Courses: Informatics Mathematics, Data Warehousing and Distributed Databases, Simulation and Modeling, Web Programming, Mobile Programming and Ubiquitous Programming.
 
