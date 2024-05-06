@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, currently I work as a Lecturer in the Informatics Department.
+
+Courses: Informatics Mathematics, Data Warehousing and Distributed Databases, Simulation and Modeling, Web Programming, Mobile Programming and Ubiquitous Programming.
+Approach: Problem-Based Learning, Case-Based Learning and Project-Based Learning.
 
 <!--
 **rahayuda/rahayuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
