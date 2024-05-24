@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Right now, I'm sticking with GitHub as my go-to repository for all my program samples. I'm also keen on diving deeper into other GitHub functionalities down the road as part of my ongoing learning journey.
+Right now, I'm sticking with GitHub as my go-to repository for all my program samples. I'm also keen on diving deeper into other GitHub functionalities in the future as part of my ongoing learning journey.
 
 <!--
 **rahayuda/rahayuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
